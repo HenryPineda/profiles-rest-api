@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/.vagrant
+
+ubuntu-xenial-16.04-clouding-console.log
